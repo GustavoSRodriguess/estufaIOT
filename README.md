@@ -7,8 +7,7 @@
 4. [Configuração](#configuração)
 5. [Uso](#uso)
 6. [Segurança](#segurança)
-7. [Contribuição](#contribuição)
-8. [Licença](#licença)
+7. [Licença](#licença)
 
 ## Introdução
 
